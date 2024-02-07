@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T04:22:35.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="h538pTEm2x4IrdsergsP" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T04:32:05.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="iZL7rAwkHd38rOFijV-U" version="23.1.1" type="github">
   <diagram name="Page-1" id="a74B4hUyCrlMNp4JHoA-">
-    <mxGraphModel dx="880" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z_AwmB61hgFwx2csZpb4-258" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-90" width="200" height="1480" as="geometry" />
+          <mxGeometry x="1730" y="-90" width="200" height="2080" as="geometry" />
         </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-257" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-83" width="200" height="1473" as="geometry" />
+          <mxGeometry x="1530" y="-83" width="200" height="2073" as="geometry" />
         </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-256" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-83" width="200" height="1473" as="geometry" />
+          <mxGeometry x="1330" y="-83" width="200" height="2053" as="geometry" />
         </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-255" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="-83" width="200" height="1473" as="geometry" />
+          <mxGeometry x="1130" y="-83" width="200" height="2053" as="geometry" />
         </mxCell>
         <mxCell id="__j8qxxGPxPXiS_JSPGA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="__j8qxxGPxPXiS_JSPGA-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -181,14 +181,14 @@
         <mxCell id="z_AwmB61hgFwx2csZpb4-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-214" target="z_AwmB61hgFwx2csZpb4-261">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-214" value="Mengumpulkan bukti-bukti pengeluaran perjalanan bisnis." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="z_AwmB61hgFwx2csZpb4-214" value="Mengumpulkan bukti-bukti pengeluaran perjalanan bisnis." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
           <mxGeometry x="1147.5" y="-60" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="__j8qxxGPxPXiS_JSPGA-4" value="Salesperson Mengisi laporan biaya perjalanan dengan detail yang diperlukan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="365" y="430" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-259" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-90" width="200" height="1333" as="geometry" />
+        <mxCell id="z_AwmB61hgFwx2csZpb4-259" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="-90" width="200" height="2080" as="geometry" />
         </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-264" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-261" target="z_AwmB61hgFwx2csZpb4-263">
           <mxGeometry relative="1" as="geometry" />
@@ -242,8 +242,62 @@
         <mxCell id="z_AwmB61hgFwx2csZpb4-281" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="465" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-282" target="z_AwmB61hgFwx2csZpb4-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-282" value="Mengirimkan laporan biaya perjalanan ke&amp;nbsp;kantor perusahaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="850" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-285" target="z_AwmB61hgFwx2csZpb4-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-285" value="Menyortir laporan biaya perjalanan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="850" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-290" target="z_AwmB61hgFwx2csZpb4-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-290" value="Mengirimkan laporan biaya perjalanan ke A/C Clerk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="1050" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-292" target="z_AwmB61hgFwx2csZpb4-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-292" value="Melakukan pemeriksaan awal terhadap laporan biaya perjalanan." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="1050" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-294" target="z_AwmB61hgFwx2csZpb4-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-294" value="&amp;nbsp;Mengirimkan&amp;nbsp;laporan biaya ke Expense Report Auditor untuk pemeriksaan lebih lanjut." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="1210" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-296" target="z_AwmB61hgFwx2csZpb4-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-296" value="&amp;nbsp;Memeriksa laporan biaya perjalanan." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="1210" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-298" target="z_AwmB61hgFwx2csZpb4-300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-298" value="Tidak mendapat masalah pada laporan biaya perjalanan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacingLeft=14;spacingRight=13;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="1420" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-300" target="z_AwmB61hgFwx2csZpb4-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-300" value="Mengirim kembali ke Salesperson untuk diperbaiki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-302" target="z_AwmB61hgFwx2csZpb4-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-302" value="Mengirim kembali ke Salesperson untuk diperbaiki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-305" value="Mengirim kembali ke Salesperson untuk diperbaiki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1780" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
