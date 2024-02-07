@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T04:14:54.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VGXLr3vWCSU-wu97YpLv" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T04:22:35.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="h538pTEm2x4IrdsergsP" version="23.1.1" type="github">
   <diagram name="Page-1" id="a74B4hUyCrlMNp4JHoA-">
-    <mxGraphModel dx="704" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z_AwmB61hgFwx2csZpb4-258" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-90" width="200" height="1333" as="geometry" />
+        <mxCell id="z_AwmB61hgFwx2csZpb4-258" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="-90" width="200" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-257" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-83" width="200" height="1333" as="geometry" />
+        <mxCell id="z_AwmB61hgFwx2csZpb4-257" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="-83" width="200" height="1473" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-256" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-83" width="200" height="1333" as="geometry" />
+        <mxCell id="z_AwmB61hgFwx2csZpb4-256" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-83" width="200" height="1473" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-255" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="-83" width="200" height="1333" as="geometry" />
+        <mxCell id="z_AwmB61hgFwx2csZpb4-255" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-83" width="200" height="1473" as="geometry" />
         </mxCell>
         <mxCell id="__j8qxxGPxPXiS_JSPGA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="__j8qxxGPxPXiS_JSPGA-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -202,8 +202,48 @@
         <mxCell id="z_AwmB61hgFwx2csZpb4-263" value="Mengirimkan laporan biaya perjalanan ke Zone manajer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="240" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-265" target="z_AwmB61hgFwx2csZpb4-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-265" value="Meninjau laporan biaya perjalanan dari Salesperson" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-267" target="z_AwmB61hgFwx2csZpb4-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-267" target="z_AwmB61hgFwx2csZpb4-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="500" />
+              <mxPoint x="1520" y="790" />
+              <mxPoint x="1430" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-267" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menyetujui laporan biaya perjalanan&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;spacingLeft=9;spacingRight=9;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="430" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-274" target="z_AwmB61hgFwx2csZpb4-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-274" value="Mengembalikan laporan biaya perjalanan dengan&amp;nbsp;catatan untuk penjelasan lebih lanjut atau modifikasi." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="630" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-276" target="z_AwmB61hgFwx2csZpb4-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-276" value="Memodifikasi atau memberikan penjelasan lebih lanjut di laporan biaya perjalanan." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="630" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-280" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-281" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-282" value="Mengirimkan laporan biaya perjalanan ke&amp;nbsp;kantor perusahaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="850" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
