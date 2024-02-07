@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T04:12:26.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PqCMO9Mgo6Gak_HyygZY" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T04:14:54.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VGXLr3vWCSU-wu97YpLv" version="23.1.1" type="github">
   <diagram name="Page-1" id="a74B4hUyCrlMNp4JHoA-">
-    <mxGraphModel dx="838" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,10 @@
         <mxCell id="z_AwmB61hgFwx2csZpb4-213" value="A/P Clerk" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1810" y="-180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z_AwmB61hgFwx2csZpb4-214" value="Salesperson&amp;nbsp;Mengumpulkan bukti-bukti pengeluaran perjalanan bisnis." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="z_AwmB61hgFwx2csZpb4-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-214" target="z_AwmB61hgFwx2csZpb4-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-214" value="Mengumpulkan bukti-bukti pengeluaran perjalanan bisnis." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1147.5" y="-60" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="__j8qxxGPxPXiS_JSPGA-4" value="Salesperson Mengisi laporan biaya perjalanan dengan detail yang diperlukan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -186,6 +189,21 @@
         </mxCell>
         <mxCell id="z_AwmB61hgFwx2csZpb4-259" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1930" y="-90" width="200" height="1333" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-264" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-261" target="z_AwmB61hgFwx2csZpb4-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-261" value="Mengisi laporan biaya perjalanan dengan detail yang diperlukan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="70" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_AwmB61hgFwx2csZpb4-263" target="z_AwmB61hgFwx2csZpb4-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-263" value="Mengirimkan laporan biaya perjalanan ke Zone manajer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z_AwmB61hgFwx2csZpb4-265" value="Meninjau laporan biaya perjalanan dari Salesperson" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="240" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
