@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T09:01:03.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_NUU76Fe-c88vwqHQqxk" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T09:11:33.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0R6RfHXCYxdKfVOxeNTf" version="23.1.2" type="github">
   <diagram name="Page-1" id="GLsYwR4bpoCbrgy6YhnN">
-    <mxGraphModel dx="1257" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
           <mxGeometry x="545" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YVFMAMZDy8oQ01eAMkrq-39" value="Akuntansi dan Keuangan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="695" y="75" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YVFMAMZDy8oQ01eAMkrq-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-40" target="YVFMAMZDy8oQ01eAMkrq-41">
           <mxGeometry relative="1" as="geometry" />
@@ -244,8 +244,78 @@
         <mxCell id="YVFMAMZDy8oQ01eAMkrq-114" value="Memulai produksi." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="2338" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-116" target="YVFMAMZDy8oQ01eAMkrq-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-116" target="YVFMAMZDy8oQ01eAMkrq-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YVFMAMZDy8oQ01eAMkrq-116" value="Ada kendala ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="2470" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-118" value="Proses pemesanan terhenti" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-120" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-121" target="YVFMAMZDy8oQ01eAMkrq-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-121" value="Melakukan produksi" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-123" target="YVFMAMZDy8oQ01eAMkrq-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-123" value="Memberikan informasi produksi telah selesai dan mengirim pesanan ke penjualan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2750" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-127" target="YVFMAMZDy8oQ01eAMkrq-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-127" target="YVFMAMZDy8oQ01eAMkrq-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="2850" />
+              <mxPoint x="330" y="2850" />
+              <mxPoint x="330" y="3010" />
+              <mxPoint x="260" y="3010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-127" value="Mengatur jasa pengiriman" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-129" value="Menyerahkan pesanan ke jasa pengiriman." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-132" target="YVFMAMZDy8oQ01eAMkrq-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-132" value="Mengirimkan rincian pesanan ke bagian akuntansi dan keuangan." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-134" target="YVFMAMZDy8oQ01eAMkrq-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-134" value="Menerima rincian pesanan." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-136" target="YVFMAMZDy8oQ01eAMkrq-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-136" value="Membuat invoice." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YVFMAMZDy8oQ01eAMkrq-138" target="YVFMAMZDy8oQ01eAMkrq-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-138" value="Mengirimkan invoice ke penjualan." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVFMAMZDy8oQ01eAMkrq-140" value="Mengirimkan invoice ke penjualan." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
