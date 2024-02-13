@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T14:06:21.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="AfUk7IhL5TigazfbB_53" version="23.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T16:45:45.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="woEXO9ku9tM7dWUlXS2x" version="23.1.3" type="github">
   <diagram name="Page-1" id="GLsYwR4bpoCbrgy6YhnN">
-    <mxGraphModel dx="880" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,19 +359,19 @@
           <mxGeometry x="50" y="-10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-9" value="Awal dan Akhir proses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-15" width="140" height="30" as="geometry" />
+          <mxGeometry x="90" y="-15" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="260" y="-50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-11" value="Sistem pesanan custom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="305" y="-55" width="165" height="30" as="geometry" />
+        <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-11" value="Sistem pesanan kustom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="-55" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-10" width="40" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-13" value="Proses manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-13.75" width="165" height="30" as="geometry" />
+          <mxGeometry x="300" y="-13.75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jW1G6fnJ-B5Q4kqEfKqT-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Nama : Thirza Ahmad Tsaqif&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NPM : 2206082556&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-170" width="800" height="60" as="geometry" />
@@ -406,6 +406,30 @@
         </mxCell>
         <mxCell id="pDV7DR5qkf-NcJDgmdp5-22" value="Mengirim pesanan ke penjualan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-26" value="Sistem pesanan&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-55" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-8.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-29" value="Sistem penjadwa;an&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-31" value="Sistem gudang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-55" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pDV7DR5qkf-NcJDgmdp5-33" value="Sistem keuangan dan akuntansi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-13.75" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
