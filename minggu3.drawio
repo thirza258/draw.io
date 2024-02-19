@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T08:13:52.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="VJwdOsg3SImtKHKHnWGt" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T09:11:54.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LZseAMdB3DyizFplaNfO" version="23.1.4" type="github">
   <diagram name="Page-1" id="PQngdPPuFtnZYb0_OFdU">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-11" value="Dokter" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="2" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-12" value="ID Dokter&lt;br&gt;Nama&lt;br&gt;Tanggal Lahir&lt;br&gt;Nomor izin praktik" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-11">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-13" value="Dokter Gigi" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="194" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-14" value="Spesialisasi" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-13">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-16" value="Psikiater" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="194" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-17" value="nomor sertifikasi Sutat Kompetensi" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-16">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-18" value="Dokter Umum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="194" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.41;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="89" as="sourcePoint" />
+            <mxPoint x="170" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-22" value="Pasien" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="524" width="160" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-23" value="nomor&lt;br/&gt;identitas, &lt;br&gt;nama lengkap, &lt;br&gt;tanggal lahir&amp;nbsp; &lt;br&gt;informasi alergi. " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-22">
+          <mxGeometry y="50" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-24" value="Pasien Umum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="729" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-25" value=" pekerjaan, &lt;br&gt;nama&amp;nbsp;&lt;br&gt;nomor rekening Bank" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-24">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-26" value="Civitas UI" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="729" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-27" value=" identitas akun SSO.&lt;br/&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="MEl4AaZvsPBjssgzcqS_-26">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MEl4AaZvsPBjssgzcqS_-28" value="Menangani" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="501" y="359" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
