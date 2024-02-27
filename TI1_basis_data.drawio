@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T05:30:29.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1EgqqyohNabIT-bxQu4L" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T05:36:56.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6K2plut9BDcrwO1_3-Nb" version="23.1.7" type="github">
   <diagram name="Page-1" id="nqy8MYTfZK-IS5IxkyHg">
-    <mxGraphModel dx="2419" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6054" dy="3339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="InDd5PstnEUt9IAhVS5L-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rp_q8d3P8gBAkOt-X-FX-1" target="InDd5PstnEUt9IAhVS5L-103" edge="1">
+        <mxCell id="InDd5PstnEUt9IAhVS5L-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Rp_q8d3P8gBAkOt-X-FX-1" target="InDd5PstnEUt9IAhVS5L-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rp_q8d3P8gBAkOt-X-FX-1" value="DPR" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1140" y="285" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InDd5PstnEUt9IAhVS5L-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rp_q8d3P8gBAkOt-X-FX-2" target="InDd5PstnEUt9IAhVS5L-103" edge="1">
+        <mxCell id="InDd5PstnEUt9IAhVS5L-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Rp_q8d3P8gBAkOt-X-FX-2" target="InDd5PstnEUt9IAhVS5L-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rp_q8d3P8gBAkOt-X-FX-2" value="DPRD" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -51,7 +51,7 @@
         <mxCell id="1rXdToiTDQNisKuDXQ6l-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="06MVGboHxHlyO1YCg4qo-3" target="1rXdToiTDQNisKuDXQ6l-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rXdToiTDQNisKuDXQ6l-52" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1rXdToiTDQNisKuDXQ6l-51" vertex="1" connectable="0">
+        <mxCell id="1rXdToiTDQNisKuDXQ6l-52" value="(1, N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1rXdToiTDQNisKuDXQ6l-51" vertex="1" connectable="0">
           <mxGeometry x="0.4333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -597,7 +597,7 @@
         <mxCell id="1rXdToiTDQNisKuDXQ6l-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="1rXdToiTDQNisKuDXQ6l-50" target="06MVGboHxHlyO1YCg4qo-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rXdToiTDQNisKuDXQ6l-54" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="1rXdToiTDQNisKuDXQ6l-53" vertex="1" connectable="0">
+        <mxCell id="1rXdToiTDQNisKuDXQ6l-54" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="1rXdToiTDQNisKuDXQ6l-53" vertex="1" connectable="0">
           <mxGeometry x="-0.9595" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
