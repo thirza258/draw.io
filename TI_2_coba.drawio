@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T04:21:33.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BO1J79y-HYVIGpcs5f8S" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T09:17:41.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8xHyxCrEkC4MQwCemxMB" version="24.0.1" type="github">
   <diagram name="Page-1" id="29IbZUK5nLMqWAKEhT4y">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,45 @@
         </mxCell>
         <mxCell id="_uWPzjZglegu2zwNNhxl-28" value="DAPIL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="70" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-29" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-30" value="nama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-31" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-32" value="PARTAI_POLITIK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-36" value="provinsi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-37" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-38" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-39" value="DPW_PARPOL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-40" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-41" value="nomor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="190" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-42" value="kode_unik" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-43" value="TPS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="800" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-44" value="NIK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="310" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
