@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="29IbZUK5nLMqWAKEhT4y">
-        <mxGraphModel dx="2491" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1619" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -367,9 +367,6 @@
                 <mxCell id="_uWPzjZglegu2zwNNhxl-101" value="EKSEKUTIF" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="71" y="1760" width="29" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-102" value="NIK_pemilih" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="72" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="_uWPzjZglegu2zwNNhxl-103" value="token" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="191" y="1980" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -387,7 +384,7 @@
                     <mxGeometry x="312" y="1980" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_uWPzjZglegu2zwNNhxl-105" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="432" y="1980" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="70" y="1980" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_uWPzjZglegu2zwNNhxl-106" value="barcode" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
                     <mxGeometry x="552" y="1980" width="120" height="60" as="geometry"/>
@@ -592,6 +589,9 @@
                 </mxCell>
                 <mxCell id="56" value="token_piliihan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
                     <mxGeometry x="190" y="2600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+                    <mxGeometry x="431" y="1980" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
