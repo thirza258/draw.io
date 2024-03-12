@@ -1,599 +1,603 @@
-<mxfile host="65bd71144e">
-    <diagram name="Page-1" id="29IbZUK5nLMqWAKEhT4y">
-        <mxGraphModel dx="1619" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-1" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="70" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-2" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-3" value="visi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-4" value="misi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-5" value="PASLON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="60" width="110" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-7" value="NIK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="70" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-8" value="nama_lengkap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-9" value="tempat_tanggal_lahir" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-10" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-11" value="status_perkawinan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="550" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-12" value="lhkpn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="670" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-13" value="link_foto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="790" y="220" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-14" value="NIK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="70" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-15" value="KANDIDAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="190" width="90" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-16" value="nama_lengkap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-18" value="tempat_tanggal_lahir" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-19" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-20" value="status_perkawinan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="550" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-21" value="pekerjaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="670" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-22" value="max_calon_DPD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="550" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-23" value="PEMILIH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="320" width="90" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-24" value="max_calon_DPRD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-25" value="max_calon_DPR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-26" value="provinsi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-27" value="kode_unik" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="70" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-28" value="DAPIL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="440" width="90" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-29" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="70" y="610" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-30" value="nama" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="610" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-31" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="610" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-32" value="PARTAI_POLITIK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="580" width="160" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-36" value="provinsi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="190" y="745" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-37" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-37" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="745" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-38" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="745" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-39" value="DPW_PARPOL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="715" width="160" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-40" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="431" y="900" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-41" value="nomor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="191" y="900" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-42" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="130" y="860"/>
-                            <mxPoint x="-190" y="860"/>
-                            <mxPoint x="-190" y="540"/>
-                            <mxPoint x="130" y="540"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-42" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="71" y="900" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-43" value="TPS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="870" width="50" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-44" target="_uWPzjZglegu2zwNNhxl-14" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="370" y="870"/>
-                            <mxPoint x="-170" y="870"/>
-                            <mxPoint x="-170" y="420"/>
-                            <mxPoint x="130" y="420"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-44" value="NIK_pemilih" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="900" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-45" value="nama_kantor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-46" value="jabatan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-47" value="mulai_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-48" value="akhir_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="431" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-50" value="RIWAYAT_PEKERJAAN_KANDIDAT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="1020" width="330" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-51" value="akhir_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="551" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-52" target="_uWPzjZglegu2zwNNhxl-14" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="731" y="1010"/>
-                            <mxPoint x="-400" y="1010"/>
-                            <mxPoint x="-400" y="420"/>
-                            <mxPoint x="130" y="420"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-52" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="671" y="1050" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-53" value="nama_sekolah" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1190" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-54" value="jenjang" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1190" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-55" value="tahun_kelulusan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1190" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-56" value="RIWAYAT_PENDIDIKAN_KANDIDAT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1160" width="330" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-57" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="491" y="1160"/>
-                            <mxPoint x="-420" y="1160"/>
-                            <mxPoint x="-420" y="290"/>
-                            <mxPoint x="130" y="290"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-57" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="431" y="1190" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-58" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-59" value="LEGISLATIF_DPR" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1295" width="330" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-60" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-61" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-62" value="keterangan anggota parpol" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="431" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-63" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="551" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-64" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="731" y="1290"/>
-                            <mxPoint x="-440" y="1290"/>
-                            <mxPoint x="-440" y="290"/>
-                            <mxPoint x="130" y="290"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-64" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="671" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_uWPzjZglegu2zwNNhxl-65" target="_uWPzjZglegu2zwNNhxl-29">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="851" y="1280"/>
-                            <mxPoint x="-580" y="1280"/>
-                            <mxPoint x="-580" y="680"/>
-                            <mxPoint x="130" y="680"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-65" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="791" y="1330" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_uWPzjZglegu2zwNNhxl-74" target="_uWPzjZglegu2zwNNhxl-29">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="851" y="1440"/>
-                            <mxPoint x="-560" y="1440"/>
-                            <mxPoint x="-560" y="680"/>
-                            <mxPoint x="130" y="680"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-74" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="791" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-75" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="731" y="1450"/>
-                            <mxPoint x="-460" y="1450"/>
-                            <mxPoint x="-460" y="290"/>
-                            <mxPoint x="130" y="290"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-75" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="671" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-76" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="551" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-77" value="keterangan anggota parpol" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="431" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-78" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-79" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-80" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-81" value="LEGISLATIF_DPRD" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1460" width="330" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-82" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="970" y="1460"/>
-                            <mxPoint x="-100" y="1460"/>
-                            <mxPoint x="-100" y="540"/>
-                            <mxPoint x="130" y="540"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-82" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="911" y="1490" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-83" value="LEGISLATIF_DPD" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1615" width="330" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-85" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-88" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-90" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-91" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="431" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" parent="1" source="_uWPzjZglegu2zwNNhxl-92" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="610" y="1610"/>
-                            <mxPoint x="-70" y="1610"/>
-                            <mxPoint x="-70" y="540"/>
-                            <mxPoint x="130" y="540"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-92" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="551" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-95" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="731" y="1600"/>
-                            <mxPoint x="-480" y="1600"/>
-                            <mxPoint x="-480" y="290"/>
-                            <mxPoint x="130" y="290"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-95" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="671" y="1650" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-96" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="132" y="1750"/>
-                            <mxPoint x="-380" y="1750"/>
-                            <mxPoint x="-380" y="290"/>
-                            <mxPoint x="130" y="290"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-96" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="72" y="1790" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-97" value="expired_date" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="192" y="1790" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.658;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-100" target="_uWPzjZglegu2zwNNhxl-100" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-100" value="no_skck" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="311" y="1790" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-101" value="EKSEKUTIF" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="1760" width="29" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-103" value="token" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="191" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=10;" parent="1" source="_uWPzjZglegu2zwNNhxl-104" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="371" y="1940"/>
-                            <mxPoint x="-40" y="1940"/>
-                            <mxPoint x="-40" y="160"/>
-                            <mxPoint x="130" y="160"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-104" value="no_urut_paslon&lt;br&gt;_eksekutif" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="312" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-105" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="70" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-106" value="barcode" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="552" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-107" value="PILIHAN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="1950" width="230" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_uWPzjZglegu2zwNNhxl-109" value="timestamp" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="672" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8" target="_uWPzjZglegu2zwNNhxl-41" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="250" y="940" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="850" y="320"/>
-                            <mxPoint x="-120" y="320"/>
-                            <mxPoint x="-120" y="970"/>
-                            <mxPoint x="250" y="970"/>
-                            <mxPoint x="250" y="960"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="8" value="nomor_tps" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="790" y="350" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="10" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="490" y="710"/>
-                            <mxPoint x="-150" y="710"/>
-                            <mxPoint x="-150" y="540"/>
-                            <mxPoint x="130" y="540"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="10" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="430" y="745" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="17" target="_uWPzjZglegu2zwNNhxl-36" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="731" y="440"/>
-                            <mxPoint x="-210" y="440"/>
-                            <mxPoint x="-210" y="850"/>
-                            <mxPoint x="250" y="850"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="17" value="provinsi_dpw_parpol" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="671" y="470" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="20" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="132" y="2090"/>
-                            <mxPoint x="-230" y="2090"/>
-                            <mxPoint x="-230" y="680"/>
-                            <mxPoint x="130" y="680"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="20" value="no_urut_partai_politik" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="72" y="2130" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="21" value="MENGUSUNG" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="2100" width="140" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="22" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="252" y="2080"/>
-                            <mxPoint x="-250" y="2080"/>
-                            <mxPoint x="-250" y="160"/>
-                            <mxPoint x="130" y="160"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="22" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-                    <mxGeometry x="192" y="2130" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="WAKIL_PRESIDEN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="71" y="2260" width="39" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="27" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="131" y="2250"/>
-                            <mxPoint x="-270" y="2250"/>
-                            <mxPoint x="-270" y="160"/>
-                            <mxPoint x="130" y="160"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="27" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="71" y="2290" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="28" target="_uWPzjZglegu2zwNNhxl-96" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="250" y="2240"/>
-                            <mxPoint x="-310" y="2240"/>
-                            <mxPoint x="-310" y="1860"/>
-                            <mxPoint x="132" y="1860"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="28" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="190" y="2290" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="29" value="PRESIDEN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-                    <mxGeometry x="72" y="2430" width="38" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="30" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="132" y="2420"/>
-                            <mxPoint x="-330" y="2420"/>
-                            <mxPoint x="-330" y="160"/>
-                            <mxPoint x="130" y="160"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="30" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="72" y="2460" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="31" target="_uWPzjZglegu2zwNNhxl-96" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="251" y="2410"/>
-                            <mxPoint x="-350" y="2410"/>
-                            <mxPoint x="-350" y="1860"/>
-                            <mxPoint x="132" y="1860"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="31" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="191" y="2460" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;jumpStyle=arc;" edge="1" parent="1" source="44" target="_uWPzjZglegu2zwNNhxl-63">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="852" y="1930"/>
-                            <mxPoint x="-500" y="1930"/>
-                            <mxPoint x="-500" y="1400"/>
-                            <mxPoint x="611" y="1400"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="44" value="no_urut_&lt;br&gt;legislatif_dpr" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-                    <mxGeometry x="792" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="45" target="_uWPzjZglegu2zwNNhxl-76">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="970" y="1910"/>
-                            <mxPoint x="-520" y="1910"/>
-                            <mxPoint x="-520" y="1560"/>
-                            <mxPoint x="611" y="1560"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="45" value="no_urut_&lt;br&gt;legislatif_dprd" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-                    <mxGeometry x="910" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="46" target="_uWPzjZglegu2zwNNhxl-91">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="1090" y="1920"/>
-                            <mxPoint x="-540" y="1920"/>
-                            <mxPoint x="-540" y="1720"/>
-                            <mxPoint x="491" y="1720"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="46" value="no_urut_&lt;br&gt;legislatif_dpd" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-                    <mxGeometry x="1030" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="54" value="MEMILIH" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-                    <mxGeometry x="70" y="2570" width="90" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="55" target="_uWPzjZglegu2zwNNhxl-14">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="130" y="2560"/>
-                            <mxPoint x="-600" y="2560"/>
-                            <mxPoint x="-600" y="410"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="55" value="NIK_pemilih" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-                    <mxGeometry x="70" y="2600" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="56" target="_uWPzjZglegu2zwNNhxl-103">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="250" y="2550"/>
-                            <mxPoint x="-620" y="2550"/>
-                            <mxPoint x="-620" y="2050"/>
-                            <mxPoint x="251" y="2050"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="56" value="token_piliihan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-                    <mxGeometry x="190" y="2600" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="59" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-                    <mxGeometry x="431" y="1980" width="120" height="60" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="app.diagrams.net" modified="2024-03-12T04:29:01.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="dUiZCZOOcpr2Jh8-yFMa" type="github">
+  <diagram name="Page-1" id="29IbZUK5nLMqWAKEhT4y">
+    <mxGraphModel dx="3760" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_uWPzjZglegu2zwNNhxl-1" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-2" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-3" value="visi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-4" value="misi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-5" value="PASLON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-7" value="NIK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-8" value="nama_lengkap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-9" value="tempat_tanggal_lahir" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-10" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-11" value="status_perkawinan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-12" value="lhkpn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-13" value="link_foto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-14" value="NIK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-15" value="KANDIDAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-16" value="nama_lengkap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-18" value="tempat_tanggal_lahir" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-19" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-20" value="status_perkawinan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-21" value="pekerjaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-22" value="max_calon_DPD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-23" value="PEMILIH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-24" value="max_calon_DPRD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-25" value="max_calon_DPR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-26" value="provinsi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-27" value="kode_unik" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-28" value="DAPIL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-29" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-30" value="nama" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-31" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-32" value="PARTAI_POLITIK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="570" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-36" value="provinsi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="190" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-37" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-37" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-38" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-39" value="DPW_PARPOL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="60" y="715" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-40" value="alamat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="431" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-41" value="nomor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="191" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-42" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="860" />
+              <mxPoint x="-190" y="860" />
+              <mxPoint x="-190" y="540" />
+              <mxPoint x="130" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-42" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="71" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-43" value="TPS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="870" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-44" target="_uWPzjZglegu2zwNNhxl-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="870" />
+              <mxPoint x="-170" y="870" />
+              <mxPoint x="-170" y="410" />
+              <mxPoint x="130" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-44" value="NIK_pemilih" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-45" value="nama_kantor" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-46" value="jabatan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="191" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-47" value="mulai_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-48" value="akhir_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="431" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-50" value="RIWAYAT_PEKERJAAN_KANDIDAT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1020" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-51" value="akhir_kerja" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="551" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-52" target="_uWPzjZglegu2zwNNhxl-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1010" />
+              <mxPoint x="-400" y="1010" />
+              <mxPoint x="-400" y="400" />
+              <mxPoint x="160" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-52" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="671" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-53" value="nama_sekolah" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-54" value="jenjang" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="191" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-55" value="tahun_kelulusan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-56" value="RIWAYAT_PENDIDIKAN_KANDIDAT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1160" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-57" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="1160" />
+              <mxPoint x="-420" y="1160" />
+              <mxPoint x="-420" y="250" />
+              <mxPoint x="130" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-57" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="431" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-58" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-59" value="LEGISLATIF_DPR" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1295" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-60" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="191" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-61" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-62" value="keterangan anggota parpol" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="431" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-63" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="551" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-64" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1290" />
+              <mxPoint x="-440" y="1290" />
+              <mxPoint x="-440" y="240" />
+              <mxPoint x="70" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-64" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="671" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-65" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="851" y="1280" />
+              <mxPoint x="-580" y="1280" />
+              <mxPoint x="-580" y="690" />
+              <mxPoint x="70" y="690" />
+            </Array>
+            <mxPoint x="130" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-65" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="791" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-74" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="851" y="1440" />
+              <mxPoint x="-560" y="1440" />
+              <mxPoint x="-560" y="680" />
+              <mxPoint x="160" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-74" value="no_urut_partai" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="791" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-75" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1450" />
+              <mxPoint x="-460" y="1450" />
+              <mxPoint x="-460" y="230" />
+              <mxPoint x="160" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-75" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="671" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-76" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="551" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-77" value="keterangan anggota parpol" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="431" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-78" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-79" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="191" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-80" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-81" value="LEGISLATIF_DPRD" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1460" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.063;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-82" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1460" />
+              <mxPoint x="-100" y="1460" />
+              <mxPoint x="-100" y="560" />
+              <mxPoint x="78" y="560" />
+              <mxPoint x="78" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-82" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="911" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-83" value="LEGISLATIF_DPD" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1615" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-85" value="gagasan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="71" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-88" value="visi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="191" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-90" value="misi" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-91" value="no_urut" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="431" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" parent="1" source="_uWPzjZglegu2zwNNhxl-92" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1610" />
+              <mxPoint x="-70" y="1610" />
+              <mxPoint x="-70" y="530" />
+              <mxPoint x="100" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-92" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="551" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.943;entryY=1.013;entryDx=0;entryDy=0;shadow=1;entryPerimeter=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-95" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1600" />
+              <mxPoint x="-480" y="1600" />
+              <mxPoint x="-480" y="220" />
+              <mxPoint x="183" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-95" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="671" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="_uWPzjZglegu2zwNNhxl-96" target="_uWPzjZglegu2zwNNhxl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="132" y="1750" />
+              <mxPoint x="-380" y="1750" />
+              <mxPoint x="-380" y="210" />
+              <mxPoint x="100" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-96" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="72" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-97" value="expired_date" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="192" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.658;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_uWPzjZglegu2zwNNhxl-100" target="_uWPzjZglegu2zwNNhxl-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-100" value="no_skck" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="311" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-101" value="EKSEKUTIF" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1760" width="29" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-103" value="token" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="191" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=10;" parent="1" source="_uWPzjZglegu2zwNNhxl-104" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="1940" />
+              <mxPoint x="-40" y="1940" />
+              <mxPoint x="-40" y="90" />
+              <mxPoint x="130" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-104" value="no_urut_paslon&lt;br&gt;_eksekutif" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="312" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-105" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="70" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-106" value="barcode" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="552" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-107" value="PILIHAN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1950" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_uWPzjZglegu2zwNNhxl-109" value="timestamp" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="672" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;" parent="1" source="8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="270" />
+              <mxPoint x="-120" y="270" />
+              <mxPoint x="-120" y="970" />
+              <mxPoint x="250" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="nomor_tps" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="790" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;shadow=1;" parent="1" source="10" target="_uWPzjZglegu2zwNNhxl-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="710" />
+              <mxPoint x="-150" y="710" />
+              <mxPoint x="-150" y="550" />
+              <mxPoint x="170" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="kode_unik_dapil" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="430" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="17" target="_uWPzjZglegu2zwNNhxl-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="420" />
+              <mxPoint x="-210" y="420" />
+              <mxPoint x="-210" y="850" />
+              <mxPoint x="250" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="provinsi_dpw_parpol" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="671" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="20" target="_uWPzjZglegu2zwNNhxl-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="132" y="2090" />
+              <mxPoint x="-230" y="2090" />
+              <mxPoint x="-230" y="670" />
+              <mxPoint x="100" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="no_urut_partai_politik" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="72" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="MENGUSUNG" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="2100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="22" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="2080" />
+              <mxPoint x="-250" y="2080" />
+              <mxPoint x="-250" y="80" />
+              <mxPoint x="160" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="192" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="WAKIL_PRESIDEN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="71" y="2260" width="39" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="27" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="2250" />
+              <mxPoint x="-270" y="2250" />
+              <mxPoint x="-270" y="50" />
+              <mxPoint x="70" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="71" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="28" target="_uWPzjZglegu2zwNNhxl-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="2240" />
+              <mxPoint x="-310" y="2240" />
+              <mxPoint x="-310" y="1860" />
+              <mxPoint x="132" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="190" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="PRESIDEN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="72" y="2430" width="38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;" parent="1" source="30" target="_uWPzjZglegu2zwNNhxl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="132" y="2420" />
+              <mxPoint x="-330" y="2420" />
+              <mxPoint x="-330" y="60" />
+              <mxPoint x="100" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="no_urut_paslon" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="72" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;html=1;shadow=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="31" target="_uWPzjZglegu2zwNNhxl-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="2410" />
+              <mxPoint x="-350" y="2410" />
+              <mxPoint x="-350" y="1870" />
+              <mxPoint x="162" y="1870" />
+            </Array>
+            <mxPoint x="170" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="NIK_kandidat" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="191" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;jumpStyle=arc;" parent="1" source="44" target="_uWPzjZglegu2zwNNhxl-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="1930" />
+              <mxPoint x="-500" y="1930" />
+              <mxPoint x="-500" y="1400" />
+              <mxPoint x="611" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="no_urut_&lt;br&gt;legislatif_dpr" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="792" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" parent="1" source="45" target="_uWPzjZglegu2zwNNhxl-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1910" />
+              <mxPoint x="-520" y="1910" />
+              <mxPoint x="-520" y="1570" />
+              <mxPoint x="611" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="no_urut_&lt;br&gt;legislatif_dprd" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="910" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" parent="1" source="46" target="_uWPzjZglegu2zwNNhxl-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="1920" />
+              <mxPoint x="-540" y="1920" />
+              <mxPoint x="-540" y="1720" />
+              <mxPoint x="491" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="no_urut_&lt;br&gt;legislatif_dpd" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="MEMILIH" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="2570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;" parent="1" source="55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="2560" />
+              <mxPoint x="-600" y="2560" />
+              <mxPoint x="-600" y="390" />
+              <mxPoint x="100" y="390" />
+            </Array>
+            <mxPoint x="100" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55" value="NIK_pemilih" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="70" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="56" target="_uWPzjZglegu2zwNNhxl-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="2550" />
+              <mxPoint x="-620" y="2550" />
+              <mxPoint x="-620" y="2050" />
+              <mxPoint x="251" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56" value="token_piliihan" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="190" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="431" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
