@@ -7,32 +7,35 @@
         <mxCell id="KYrrkSNepEnI53IJPts2-1" value="Actor&lt;div&gt;Staf Fasilitas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-3" value="Actor&lt;div&gt;Manajer Fasiltas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-3" value="Actor&lt;div&gt;Manajer Fasiltas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-4" value="Actor&lt;div&gt;Staf Finansial&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-4" value="Actor&lt;div&gt;Staf Finansial&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-5" value="Actor&lt;div&gt;Mahasiswa&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-5" value="Actor&lt;div&gt;Mahasiswa&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="584.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="90" width="430" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-10" value="Facilities and Financial Management System" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-10" value="Facilities and Financial Management System" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="198" y="30" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-11" value="Peminjamaan Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-11" value="Peminjamaan Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-13" value="Penyampaian keluhan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-13" value="Penyampaian keluhan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-14" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-14" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-15" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-15" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-1" value="Actor&lt;div&gt;Manajer Keuangan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
