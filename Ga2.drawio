@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="ZY2EFfRAAtrspY0U2Wcm">
-    <mxGraphModel dx="926" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,18 +14,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-3" value="Actor&lt;div&gt;Manajer Fasiltas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="517.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="647.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3mr6RxUOuNYGWGT3SdUV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-4" target="3mr6RxUOuNYGWGT3SdUV-6">
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-4" target="3mr6RxUOuNYGWGT3SdUV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-4" target="3mr6RxUOuNYGWGT3SdUV-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-4" value="Actor&lt;div&gt;Staf Finansial&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="677.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="807.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3mr6RxUOuNYGWGT3SdUV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-5" target="pbBK6WTcvUTbIxPzYrMO-13">
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-5" target="pbBK6WTcvUTbIxPzYrMO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3mr6RxUOuNYGWGT3SdUV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-5" target="pbBK6WTcvUTbIxPzYrMO-11">
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-5" target="pbBK6WTcvUTbIxPzYrMO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-5" value="Actor&lt;div&gt;Mahasiswa&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -60,19 +63,19 @@
           <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-15" value="Mengevaluasi dan menyetujui pengadaan fasilitas baru" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="510" width="160" height="75" as="geometry" />
+          <mxGeometry x="240" y="640" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3mr6RxUOuNYGWGT3SdUV-1" target="3mr6RxUOuNYGWGT3SdUV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-1" value="Actor&lt;div&gt;Manajer Keuangan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="827.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="957.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-6" value="Mengelola anggaran pengadaan fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="670" width="160" height="75" as="geometry" />
+          <mxGeometry x="400" y="760" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-7" value="Mengevaluasi laporan keuangan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="820" width="160" height="75" as="geometry" />
+          <mxGeometry x="230" y="950" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3mr6RxUOuNYGWGT3SdUV-10" target="pbBK6WTcvUTbIxPzYrMO-14">
           <mxGeometry relative="1" as="geometry" />
@@ -129,6 +132,18 @@
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-38" value="Apabila terdapat masalah ketika &lt;br/&gt;menggunakan fasilitas, Anauniversity menyediakan layanan kepada Mahasiswa untuk &lt;br/&gt;mengajukan keluhan terkait fasilitas yang dipinjam" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3mr6RxUOuNYGWGT3SdUV-40" target="3mr6RxUOuNYGWGT3SdUV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-40" value="&lt;div&gt;Aktor&lt;/div&gt;Sistem pembayaran eksternal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-41" value="Melakukan pembayaran" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="867.5" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-44" value="Staf Keuangan akan melakukan &lt;br&gt;proses pembayaran melalui sistem pembayaran di luar sistem\&lt;div&gt;(niatnya nantinya gua gk masukin karena menurut gw sistem pembayaran eksternal gk terintegrasi di sistem jadi kayak bayarnya nanti ke Bank dulu misalnya)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="360" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
