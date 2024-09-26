@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="ZY2EFfRAAtrspY0U2Wcm">
-    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYrrkSNepEnI53IJPts2-1" target="pbBK6WTcvUTbIxPzYrMO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KYrrkSNepEnI53IJPts2-1" value="Actor&lt;div&gt;Staf Fasilitas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbBK6WTcvUTbIxPzYrMO-3" target="pbBK6WTcvUTbIxPzYrMO-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-3" value="Actor&lt;div&gt;Manajer Fasiltas&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="260" width="30" height="60" as="geometry" />
@@ -20,28 +26,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-5" value="Actor&lt;div&gt;Mahasiswa&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="584.5" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="90" width="430" height="750" as="geometry" />
+          <mxGeometry x="90" y="864.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-10" value="Facilities and Financial Management System" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="198" y="30" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-11" value="Menyampaikan keluhan fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-13" value="Mengajukan peminjaman fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbBK6WTcvUTbIxPzYrMO-14" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbBK6WTcvUTbIxPzYrMO-15" value="Mengelola Fasilitas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="pbBK6WTcvUTbIxPzYrMO-15" value="Mengevaluasi dan menyetujui pengadaan fasilitas baru" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="252.5" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3mr6RxUOuNYGWGT3SdUV-1" value="Actor&lt;div&gt;Manajer Keuangan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="710" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mr6RxUOuNYGWGT3SdUV-6" value="mengelola anggaran pengadaan fasilitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="412.5" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
